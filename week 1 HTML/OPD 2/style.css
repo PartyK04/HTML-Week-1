@@ -2,3 +2,7 @@ h1 {
   color: rgb(240, 0, 0);
   font-size: 100px;
 }
+
+footer {
+  text-align: justify;
+}

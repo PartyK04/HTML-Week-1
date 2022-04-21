@@ -1,0 +1,9 @@
+.header {
+  height: 95vh;
+  background-image: url(./20211115_094715.jpg);
+  background-size: cover;
+  background-position: top;
+  position: relative;
+
+  clip-path: polygon(100% 10%, 0 0, 0 100%, 100% 100%);
+}

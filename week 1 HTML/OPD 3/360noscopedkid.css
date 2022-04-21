@@ -1,0 +1,54 @@
+h2 {
+  color: green;
+}
+
+.tijger-in-sneeuw {
+  position: relative;
+  margin: 20px;
+  border-radius: 5px;
+  padding: 22px;
+  box-sizing: padding-box;
+  position: relative;
+  border-right: 5px solid #f81fd4;
+  border-bottom: 5px solid #f81fd4;
+  border-left: 5px solid #f81fd4;
+  border-top: 5px solid #f81fd4;
+}
+
+.tijgers-zijn-prachtige-dieren {
+  color: green;
+}
+
+.rooie-tijger {
+  color: red;
+}
+
+h3 {
+  text-align: center;
+  color: green;
+}
+
+footer {
+  text-align: bottom;
+}
+
+.footer-rechts {
+  text-align: right;
+  margin-top: -20px;
+}
+
+.rechter-pagina {
+  text-align: right;
+  padding-right: 70px;
+}
+
+.hele-ding {
+  margin-top: -350px;
+}
+
+.lijger {
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

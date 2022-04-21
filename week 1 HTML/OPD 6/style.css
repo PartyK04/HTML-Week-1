@@ -1,0 +1,45 @@
+/* small phones */
+@media only screen and (max-width: 480px) {
+}
+
+/* large phones */
+@media only screen and (max-width: 800px) {
+}
+
+@media only screen and (max-height: 480px) {
+}
+
+/* tablets */
+@media only screen and (max-width: 1023px) {
+}
+
+/* laptops */
+@media only screen and (max-width: 1200px) {
+}
+
+u {
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 166, 0);
+}
+
+.geel {
+  font-size: 40px;
+}
+
+.yellow {
+  border-color: yellow;
+}
+
+.midden {
+  text-align: center;
+}
+
+form {
+  margin: 8px;
+}
+
+input {
+  height: 20px;
+  flex: 0 0 200px;
+  margin-left: 10px;
+}
